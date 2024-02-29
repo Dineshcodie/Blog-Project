@@ -1,0 +1,55 @@
+.Contact {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  font-family: 'Roboto', sans-serif;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+h2 {
+  color:black;
+  margin-top: 20px;
+  text-align: center;
+}
+
+p {
+  line-height: 1.6;
+  color: #666;
+  margin-bottom: 15px;
+}
+
+.ContactDetails {
+  color: #007bff;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+.ContactDetail {
+  color: #007bff;
+}
+
+.SocialMediaLinks a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: #007bff;
+}
+
+.HappyReading {
+  text-align: center;
+  margin-top: 20px;
+  color: #555;
+}

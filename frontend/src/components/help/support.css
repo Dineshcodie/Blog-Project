@@ -1,0 +1,51 @@
+.Support {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+
+
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+
+.Support h2,
+.Support h3,
+.Support h4 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+
+.Support p {
+    line-height: 1.6;
+    color: #555;
+}
+
+.Support a {
+    color: #007bff;
+    text-decoration: underline;
+}
+
+.Support a:hover {
+    color: #0056b3;
+}
+
+.Support h3,
+.Support h4,
+.Support p {
+    margin-bottom: 15px;
+}
+
+.Support h3:contains("FAQs") {
+    border-top: 1px solid #c97070;
+    padding-top: 15px;
+    background-color: #fff;
+}
+
+.Support h4 {
+    color: #050505;
+    margin-top: 20px;
+}
